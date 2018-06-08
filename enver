@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <title>SmartMath</title>
+  <meta name="keywords" content="educacion,matematica, aplicacion movil">
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+  <meta property="og:title" content="Como ser un hacker?">
+	<meta property="og:type" content="website">col
+	
+	<meta property="og:site_name" content="owlmind">
+	<meta property="og:description" content="conviértete en el mejor hacker">
+
+  <!-- Styles -->
+	
+	<link href="favicon.ico" rel="shortcut icon" type="image/x-icon" />
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+
+  <link rel="stylesheet" href="css/font-awesome.min.css">
+  <link rel="stylesheet" href="css/animate.css">
+  <link href='http://fonts.googleapis.com/css?family=Raleway:400,100,200,300,500,600,700,800,900|Montserrat:400,700' rel='stylesheet' type='text/css'>
+<link href="https://fonts.googleapis.com/css?family=Playfair+Display" rel="stylesheet">
+  <link rel="stylesheet" href="css/font-awesome-animation.min.css">
+
+
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/main.css">
+<!-- Latest compiled and minified CSS -->
+  <script src="js/modernizr-2.7.1.js"></script>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-82844374-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-82844374-2');
+</script>
+	
+
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '886106231557316');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=886106231557316&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+ 
+
+
+</head>
+
+<body>
+
+<!-- ### Nav Bar -->
+    <div class="navbar navbar-inverse navbar-fixed-top" style="border-bottom: thick solid gray; background-color:#efeded">
+      <div class="container-fluid">
+        <div class="navbar-header">
+         <!-- <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+	       <span class="icon-bar"></span>
+          </button>          -->
+	  <a class="logo" style="font-size:30px; font-family: 'Playfair Display', serif;" href="index.html"><img style="width:100px; " src="img/logoh.png" alt="Logo"></a>	  
+        </div>
+
+<!--navbar-collapse 
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav navbar-right">
+         
+            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+            <li><a href="https://www.facebook.com/YANA.refugees/?fref=ts"><i class="fa fa-facebook"></i></a></li>
+            <li><a href="#"><i class="fa fa-instagram"></i></a></li>   
+          </ul>
+        </div>
+<!--end navbar-collapse -->
+
+      </div>
+    </div>
+<!-- ### End Nav Bar -->
+	
+
+
+<header style="padding:70px 20px">
+
+
+
+<!-- ROWS CON TITULO y subtítulo-->
+	<div class="row" style="background-color: rgba(153, 153, 153, 0.3);">
+        <div class="col-sm-8 col-sm-offset-2 text-center ">
+       		 <h1 style="text-shadow: 0 0 10px #000; margin-top:0.5vw" class="wow fadeIn">Learn Maths</h1>  		
+ 	</div>
+	</div>
+	<div class="row">
+		<div class="col-sm-10 col-sm-offset-1 text-center">
+		<h3 style="font-size:30px;text-shadow: 0 0 10px #000; color:white; padding:1.5vw" >asd</h3>
+		</div>
+	</div>	
+	
+<!-- ### END ROWS -->
+          
+                      
+		<!--ROW PARA SECCION PRINCIPAL-->
+		<div class="row">
+		<div class="col-xs-1" ></div>
+		<div class="col-xs-5" >
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/1wlXrBhfq7c?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+		</div>
+                
+		<div class="col-xs-5 bg-primary"  style="background-color:rgba(216, 210, 210, 0.75); border-radius:15px;color:white; padding:2.5vw 2.7vw; margin:0px 40px">
+
+		<ul class="list-unstyled">
+			<li><h3><span style="color:#c61c18"aria-hidden="true" class="glyphicon glyphicon-ok"></span>You wil have personalized learning</h3></li>
+			<li><h3><span style="color:#c61c18" class="glyphicon glyphicon-ok"></span>You will learn with awsome videogames  </h3></li>
+			<li><h3><span style="color:#c61c18"class="glyphicon glyphicon-ok"></span>You will improve your skills quicly</h3></li>
+		</ul>
+		<!--	call to action email + button -->
+		<form action="https://owlmind.us16.list-manage.com/subscribe/post?u=eb735c6b69f5ba3c56adeab4c&amp;id=dd8da26221" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank" novalidate>
+		<div class="input-group" style="margin:15px 0">
+		<span class="input-group-addon">Nombre</span>			
+		<input type="text" value="" name="nombre" class="email form-control" id="mce-EMAIL" placeholder="nombre" required>
+		</div>
+		<div class="input-group" style="margin:15px 0">
+		<span class="input-group-addon">Email</span>			
+		<input type="email" value="" name="EMAIL" class="email form-control" id="mce-EMAIL" placeholder="email address" required>
+		</div>
+		<input type="submit" value="Descargar" required name="subscribe" id="mc-embedded-subscribe" style="background-color:rgba(173, 25, 25, 0.92);" class="btn btn-primary btn-lg"></div>
+		</form>
+		<!--	end call to action  -->
+			
+		</div>
+		<div class="col-xs-1" ></div>
+		<!--FIN ROW SEC. PRINCIPAL  -->
+		
+                 
+	</div>
+
+
+</header>
+	   
+<div class="container"style="width:100%; border-top: thick solid gray; background-color:#efeded; background-color:#efeded;padding:10px">
+        <div class="row" style="margin:0">
+          <div class="margin-20 text-center" style="margin:0">
+            <ul class="list-inline social">
+              <li>Connect with us on</li>
+              <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+              <li><a href="https://www.facebook.com/owlmind.ec/"><i class="fa fa-facebook"></i></a></li>
+              <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+            </ul>
+          </div>
+
+        </div>  
+	
+	<div class="row text-center" style="margin:0">
+	    SmartMath © 2018
+	</div>
+</div>
+
+
+
+
+
+    <!-- Javascript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+
+
+
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="js/jquery-1.11.0.min.js"><\/script>')</script>
+    <script src="js/wow.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/main.js"></script>
+
+
+    </body>
+</html>
